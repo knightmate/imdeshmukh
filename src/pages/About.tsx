@@ -93,11 +93,11 @@ function About() {
         <div className="lg:pl-12">
           <div className="max-w-sm px-2.5 lg:max-w-md">
             <img
-              src="/myimage.jpg"
+              src="/cardimg.png"
               alt="Profile"
               className="aspect-square rotate-3 rounded-2xl bg-zinc-100 object-cover dark:bg-zinc-800 shadow-lg"
-              width="5000"
-              height="5000"
+              width="900"
+              height="900"
               loading="lazy"
               decoding="async"
             />
